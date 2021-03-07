@@ -1,9 +1,9 @@
 # Breakout Shifting
 
 ## Table of Contents
-- [About My Project (Breakout Shifting)](https://github.com/jmeza81/Beakout-Shifting/blob/main/Project%20Step%201.jpg)
-- [Presentation](https://github.com/jmeza81/Beakout-Shifting/blob/main/Project%20Step%202.jpg)
-- [PowerPoint](https://github.com/jmeza81/Beakout-Shifting/tree/main/Presentation%20PP)
+- [About My Project (Breakout Shifting)](https://github.com/jmeza81/Beakout-Shifting#about-my-project-breakout-shifting)
+- [Presentation](https://github.com/jmeza81/Beakout-Shifting#project-presentation)
+- [PowerPoint](https://github.com/jmeza81/Beakout-Shifting#presentation-powerpoint)
 
 
 ## About My Project (Breakout Shifting):
@@ -22,7 +22,7 @@ calculate shift points in their specific vehicle so they can reach the finish li
 [Back to Top](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#table-of-contents)
 
 
-## Presentation (PowerPoint)
+## Presentation (PowerPoint):
 
 ![image](https://user-images.githubusercontent.com/77745592/110255933-e2dfc780-7f5b-11eb-9268-5c82637ee300.png)
 ![image](https://user-images.githubusercontent.com/77745592/110255985-0dca1b80-7f5c-11eb-9659-0026dd65f2ef.png)
