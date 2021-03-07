@@ -19,3 +19,9 @@ calculate shift points in their specific vehicle so they can reach the finish li
 
 [Back to Top](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#table-of-contents)
 
+
+## Presentation (PowerPoint)
+
+![image](https://user-images.githubusercontent.com/77745592/110255933-e2dfc780-7f5b-11eb-9268-5c82637ee300.png)
+
+[Back to Top](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#table-of-contents)
