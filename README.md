@@ -6,7 +6,7 @@
 - [PowerPoint](https://github.com/jmeza81/Beakout-Shifting#presentation-powerpoint)
 - [Entity Relation Diagram](https://github.com/jmeza81/Beakout-Shifting#entity-relation-diagram)
 - [SQL Database](https://github.com/jmeza81/Beakout-Shifting#sql-database)
-- [Wire Diagram](
+- [Wire Diagram](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#wire-diagram)
 
 
 ## About My Project (Breakout Shifting):
