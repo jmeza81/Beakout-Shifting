@@ -4,7 +4,7 @@
 - [About My Project (Breakout Shifting)](https://github.com/jmeza81/Beakout-Shifting#about-my-project-breakout-shifting)
 - [Presentation](https://github.com/jmeza81/Beakout-Shifting#project-presentation)
 - [PowerPoint](https://github.com/jmeza81/Beakout-Shifting#presentation-powerpoint)
-- [Entity Relation Diagram](
+- [Entity Relation Diagram](https://github.com/jmeza81/Beakout-Shifting#entity-relation-diagram)
 
 
 ## About My Project (Breakout Shifting):
