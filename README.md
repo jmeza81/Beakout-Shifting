@@ -6,6 +6,7 @@
 - [PowerPoint](https://github.com/jmeza81/Beakout-Shifting#presentation-powerpoint)
 - [Entity Relation Diagram](https://github.com/jmeza81/Beakout-Shifting#entity-relation-diagram)
 - [SQL Database](https://github.com/jmeza81/Beakout-Shifting#sql-database)
+- [Wire Diagram](
 
 
 ## About My Project (Breakout Shifting):
@@ -44,5 +45,12 @@ calculate shift points in their specific vehicle so they can reach the finish li
 ## SQL Database:
 
 ![image](https://user-images.githubusercontent.com/77745592/110256803-88953580-7f60-11eb-8931-d8232639b271.png)
+
+[Back to Top](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#table-of-contents)
+
+
+## Wire Diagram:
+
+![image](https://user-images.githubusercontent.com/77745592/110258019-26d7ca00-7f66-11eb-97f9-8fc26e789ec3.png)
 
 [Back to Top](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#table-of-contents)
