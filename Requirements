@@ -1,0 +1,12 @@
+1. The system shall require each user create an account.
+    1.1 The system shall ask ask for a username and password
+		    1.1.1 The username shall be between 8 and 16 characters, to include letters and numbers.
+		    1.1.2 The password shall be between 8 and 16 characters, to include letters, numbers and special characters.
+	  1.2 The system shall ask for vehicle information.
+		    1.2.1 The system shall ask for year, make, and model of vehicle.
+    
+2. The system shall calculate shift points per gear.
+	  2.1 The system shall require dynometer information.
+		    2.1.1 The system shall ask for torque at specfic RPM's.
+		    2.1.2 The system shall ask for number of gears.
+		    2.1.3 The system shall ask for gear ratios.
