@@ -7,6 +7,7 @@
 - [Entity Relation Diagram](https://github.com/jmeza81/Beakout-Shifting#entity-relation-diagram)
 - [SQL Database](https://github.com/jmeza81/Beakout-Shifting#sql-database)
 - [Wire Diagram](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#wire-diagram)
+- [User Stories](
 
 
 ## About My Project (Breakout Shifting):
@@ -54,3 +55,8 @@ calculate shift points in their specific vehicle so they can reach the finish li
 ![image](https://user-images.githubusercontent.com/77745592/110258019-26d7ca00-7f66-11eb-97f9-8fc26e789ec3.png)
 
 [Back to Top](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#table-of-contents)
+
+
+## User Stories:
+
+!(https://github.com/jmeza81/Beakout-Shifting/blob/e8843824a12043dd22dfc7b0261a6b0b6909b83c/User%20Stories)
