@@ -8,8 +8,8 @@
 - [SQL Database](https://github.com/jmeza81/Beakout-Shifting#sql-database)
 - [Wire Diagram](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#wire-diagram)
 - [User Stories](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#user-stories)
-- [Use Cases]()
-- [Requirements]()
+- [Use Cases](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#use-cases)
+- [Requirements](https://github.com/jmeza81/Beakout-Shifting/tree/main#requirements)
 
 ## About My Project (Breakout Shifting):
 
