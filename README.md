@@ -7,7 +7,7 @@
 - [Entity Relation Diagram](https://github.com/jmeza81/Beakout-Shifting#entity-relation-diagram)
 - [SQL Database](https://github.com/jmeza81/Beakout-Shifting#sql-database)
 - [Wire Diagram](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#wire-diagram)
-- [User Stories](
+- [User Stories](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#user-stories)
 
 
 ## About My Project (Breakout Shifting):
