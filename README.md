@@ -59,4 +59,7 @@ calculate shift points in their specific vehicle so they can reach the finish li
 
 ## User Stories:
 
-!(https://github.com/jmeza81/Beakout-Shifting/blob/e8843824a12043dd22dfc7b0261a6b0b6909b83c/User%20Stories)
+![User Stories](https://user-images.githubusercontent.com/77745592/110282509-38d85d80-7fa4-11eb-988b-acaab1697b95.jpg)
+
+
+[Back to Top](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#table-of-contents)
