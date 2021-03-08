@@ -1,5 +1,5 @@
 Given a user, the application (app) will require the user to sign in with a username and password.
 
-Given Dynometer (Dyno) test results, the app will calculate the optimal shift points for that specific vehicle.
-
 Given username and password, the app will store user and user vehicle information.
+
+Given Dynometer (Dyno) test results, the app will calculate the optimal shift points for that specific vehicle.
