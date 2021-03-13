@@ -82,11 +82,23 @@ calculate shift points in their specific vehicle so they can reach the finish li
 
 ## Prototype:
 
+The login page is pretty basic. There's nothing flashy just inout your username nad password then select the Drive button.
+If the user forgets their name or password then they can utilize the respective hyperlinks. Also, there's an option to 
+sign up for an account.
+
 ![image](https://user-images.githubusercontent.com/77745592/111020573-90077500-838c-11eb-98ba-15b85b8aa79d.png)
+
+In this screen the user will enter their basic vehicle information such as year, make and model. This will serve to 
+save user data.
 
 ![image](https://user-images.githubusercontent.com/77745592/111020597-be855000-838c-11eb-885d-1a69d0ae890a.png)
 
+The Dyno numbers obtained from a shop are entered here. Once the drive button is selected the app will plug the numbers
+the formula and display the results on the next screen.
+
 ![image](https://user-images.githubusercontent.com/77745592/111020602-ca711200-838c-11eb-8383-42e46f8427fe.png)
+
+The last page shows the user the calculated shift points for the vehicle entered. The user can save the info and logout.
 
 ![image](https://user-images.githubusercontent.com/77745592/111020612-d52ba700-838c-11eb-8125-69a8a55c9bc4.png)
 
