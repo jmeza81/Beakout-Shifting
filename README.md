@@ -10,7 +10,7 @@
 - [User Stories](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#user-stories)
 - [Use Cases](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#use-cases)
 - [Requirements](https://github.com/jmeza81/Beakout-Shifting/tree/main#requirements)
-- [Prototype]()
+- [Prototype](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#prototype)
 
 ## About My Project (Breakout Shifting):
 
