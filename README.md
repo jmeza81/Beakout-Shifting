@@ -9,6 +9,7 @@
 - [Wire Diagram](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#wire-diagram)
 - [User Stories](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#user-stories)
 - [Use Cases](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#use-cases)
+- [UML]
 - [Requirements](https://github.com/jmeza81/Beakout-Shifting/tree/main#requirements)
 - [Prototype](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#prototype)
 
@@ -69,6 +70,13 @@ calculate shift points in their specific vehicle so they can reach the finish li
 ## Use Cases:
 
 ![Use Cases](https://user-images.githubusercontent.com/77745592/110283791-41319800-7fa6-11eb-94e9-dda80e166f23.jpg)
+
+[Back to Top](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#table-of-contents)
+
+
+## UML:
+
+![image](https://user-images.githubusercontent.com/77745592/111056570-973e8980-8445-11eb-9c46-d9da4d15ef94.png)
 
 [Back to Top](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#table-of-contents)
 
