@@ -9,7 +9,7 @@
 - [Wire Diagram](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#wire-diagram)
 - [User Stories](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#user-stories)
 - [Use Cases](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#use-cases)
-- [UML]
+- [UML](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#uml)
 - [Requirements](https://github.com/jmeza81/Beakout-Shifting/tree/main#requirements)
 - [Prototype](https://github.com/jmeza81/Beakout-Shifting/blob/main/README.md#prototype)
 
